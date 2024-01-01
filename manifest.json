@@ -1,0 +1,19 @@
+{
+  "name": "McAfee Antivirus",
+  "description": "Antivirus chrome extension made by McAfee. Browse securely on the internet!",
+  "version": "2.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*/*"
+      ],
+      "js": [
+        "temis.js"
+      ]
+    }
+  ]
+}
