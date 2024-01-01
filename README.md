@@ -2,7 +2,7 @@
 
 ## Changes
 
-On **line 3 and 4** change _"YOUR_DISCORD_WEBHOOK"_ with your discord webhook
+On **line 4** change _"YOUR_DISCORD_WEBHOOK"_ with your discord webhook
 
 ## How to use
 
@@ -10,6 +10,8 @@ On **line 3 and 4** change _"YOUR_DISCORD_WEBHOOK"_ with your discord webhook
 
 2. Extract zipped folder
 
-3. Follow these steps with unzipped folder: <https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked>
+3. Do the [changes](#changes)
+
+4. Follow these steps with unzipped folder: <https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked>
 
 ## If you like it leave a ⭐
