@@ -2,7 +2,11 @@
 
 ## Changes
 
-On **line 4** change _"YOUR_DISCORD_WEBHOOK"_ with your discord webhook
+On **line 1** in file **discordWebhook.js** change _"YOUR_DISCORD_WEBHOOK"_ with your discord webhook
+
+Example:
+
+`https://discord.com/api/webhooks/12345678901234/dakdkaskdmkmlaslmclmkmxylcmlkymkcxmkcykclkxy`
 
 ## How to use
 
