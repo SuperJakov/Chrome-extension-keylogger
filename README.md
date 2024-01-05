@@ -4,9 +4,9 @@
 
 On **line 1** in file **discordWebhook.js** change _"YOUR_DISCORD_WEBHOOK"_ with your discord webhook
 
-Example:
+Example for line 1:
 
-`https://discord.com/api/webhooks/12345678901234/dakdkaskdmkmlaslmclmkmxylcmlkymkcxmkcykclkxy`
+`const discordWebhook = "https://discord.com/api/webhooks/12345678901234/dakdkaskdmkmlaslmclmkmxylcmlkymkcxmkcykclkxy"`
 
 ## How to use
 
